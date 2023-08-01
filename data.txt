@@ -1,6 +1,6 @@
 Qual é o seu nome? | Meu nome é ChatSumaré, estou aqui para te ajudar.
 Estou com problema no telefone | Caso esteja com problema de telefonia deve entrar em contato com o NFI da Diretoria de Ensino.
-Estou com problema na Internet | Para que possamos abrir chamado com problemas de internet precisamos que envie para o NIT as seguintes informações:CIE da escola, Nome do funcionário da escola, Sobrenome do funcionário da escola, Telefone da Escola, Celular do funcionário da escola, Email da escola e a descrição do problema.
-Estou com problema de acesso no email |  Caso esteja com algum problema de Acesso, o procedimento é abrir um chamado no https://atendimento.educacao.sp.gov.br/.
+Estou com problema na Internet | Caso esteja com duvida de como acessar a internet como aluno ou Professor, basta utilizar o seu email da conta google (email) para a rede SEDUC-ALUNOS e PROFESSORES, mas se a escola esta com problemas de internet então precisamos que envie para o NIT as seguintes informações:CIE da escola, Nome do funcionário da escola, Sobrenome do funcionário da escola, Telefone da Escola, Celular do funcionário da escola, Email da escola e a descrição do problema.
+Estou com problema no email |  Caso esteja com algum problema de Acesso, o procedimento é abrir um chamado no https://atendimento.educacao.sp.gov.br/.
 Estou com problema de acesso na SED |  Caso esteja com algum problema de Acesso, o procedimento é abrir um chamado no https://atendimento.educacao.sp.gov.br/.
-Como acessar a internet na escola | Para acessar a internet na escola, caso seja professor ou aluno, use o seu email da conta google para a rede SEDUC-ALUNOS e PROFESSORES.
+Estou com problema no PortalNet | Precisa de acesso para alguma funcionalidade no PotalNet, basta solicitar via email para o nit (desumnit@educacao.sp.gov.br).
