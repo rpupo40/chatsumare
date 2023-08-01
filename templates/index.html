@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ChatBot Web Interface</title>
+</head>
+<body>
+    <h1>ChatBot Web Interface</h1>
+    <p>Bem-vindo! Digite sua pergunta abaixo:</p>
+ <div id="response">
+        {% if bot_response %}
+            <p>DE-Sumare: {{ bot_response }}</p>
+        {% endif %}
+    </div>
+    <form action="/get_response" method="post">
+        <input type="text" name="user_input">
+        <input type="submit" value="Enviar">
+    </form>
+
+    <br>
+
+</body>
+</html>

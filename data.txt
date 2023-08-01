@@ -1,0 +1,3 @@
+Qual é o seu nome? | Meu nome é ChatBot.
+Qual é a capital do Brasil? | A capital do Brasil é Brasília.
+Qual é a cor do céu? | A cor do céu é azul.
