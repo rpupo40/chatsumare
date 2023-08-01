@@ -56,4 +56,4 @@ def get_response():
     return render_template('index.html', bot_response=response)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
