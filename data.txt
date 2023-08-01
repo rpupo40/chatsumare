@@ -1,3 +1,4 @@
-Qual é o seu nome? | Meu nome é ChatBot.
-Qual é a capital do Brasil? | A capital do Brasil é Brasília.
-Qual é a cor do céu? | A cor do céu é azul.
+Qual é o seu nome? | Meu nome é ChatSumaré e venho para te ajudar.
+Estou com problema no telefone ou telefonia, como pode me ajudar? | Caso esteja com problema de telefonia deve entrar em contato com o NFI da Diretoria de Ensino.
+Estou com problema na Internet? | Para que possamos abrir chamado com problemas de internet precisamos que envie para o NIT as seguintes informações:CIE da escola, Nome do funcionário da escola, Sobrenome do funcionário da escola, Telefone da Escola, Celular do funcionário da escola, Email da escola e a descrição do problema.
+Estou com problema de acesso? |  Caso esteja com algum problema de Acesso, o procedimento é abrir um chamado no https://atendimento.educacao.sp.gov.br/.
