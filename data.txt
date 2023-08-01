@@ -1,4 +1,5 @@
 Qual é o seu nome? | Meu nome é ChatSumaré, estou aqui para te ajudar.
+Estou com problema | Oi, preciso que escreva a situação mais completa, exemplo: Estou com problema de acesso na SED.
 Estou com problema no telefone | Caso esteja com problema de telefonia deve entrar em contato com o NFI da Diretoria de Ensino.
 Estou com problema na Internet | Caso esteja com duvida de como acessar a internet como aluno ou Professor, basta utilizar o seu email da conta google (email) para a rede SEDUC-ALUNOS e PROFESSORES, mas se a escola esta com problemas de internet então precisamos que envie para o NIT as seguintes informações:CIE da escola, Nome do funcionário da escola, Sobrenome do funcionário da escola, Telefone da Escola, Celular do funcionário da escola, Email da escola e a descrição do problema.
 Estou com problema no email |  Caso esteja com algum problema de Acesso, o procedimento é abrir um chamado no https://atendimento.educacao.sp.gov.br/.
