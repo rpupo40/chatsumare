@@ -10,7 +10,8 @@
     <p>Exemplo: Estou com problema no telefone</p><br>
  <div id="response">
         {% if bot_response %}
-            <p>DE-Sumaré:-  {{ bot_response }}</p>
+            <p>DE-Sumaré:</p>
+            <p>{{ bot_response }}</p>
         {% endif %}
     </div>
     <form action="/get_response" method="post">
