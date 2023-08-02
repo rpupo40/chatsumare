@@ -4,22 +4,21 @@
     <title>ChatSumaré Web Interface</title>
 </head>
 <body>
-    <h1>ChatSumaré Web Interface</h1>
+    <h1>ChatSumaré</h1>
     <p>Bem-vindo! Digite sua pergunta abaixo:</p><br>
     <p>Dicas de Utilização: Usamos como prompt inicial da dúvida "Estou com problema" </p>
     <p>Exemplo: Estou com problema no telefone</p><br>
- <div id="response">
-        {% if bot_response %}
-            <p>DE-Sumaré:</p>
-            <p>{{ bot_response }}</p>
-        {% endif %}
-    </div>
+<div id="response">
+{% if bot_response %}
+        <p>DE-Sumaré:</p>
+        <p>{{ bot_response | safe }}</p>
+    {% endif %}
+</div>
+
     <form action="/get_response" method="post">
-        <input type="text" name="user_input">
+        <input type="text" name="user_input" placeholder="Digite sua pergunta...">
         <input type="submit" value="Enviar">
     </form>
-
-    <br>
-
+    
 </body>
 </html>
