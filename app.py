@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, Markup
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -36,7 +36,17 @@ data = read_data_from_txt('data.txt')
 
 def get_answer(question):
     question = preprocess_text(question)
-    if question in data:
+    if question == 'ajuda':
+        # Se a pergunta for 'ajuda', retorne todas as questões do arquivo
+        with open('data.txt', 'r', encoding='utf-8') as file:
+            lines = file.readlines()
+        questions = [line.strip().split(' | ')[0] for line in lines]
+
+        # Formatando cada pergunta em parágrafo HTML seguro
+        formatted_questions = "\n".join(f"<p>{q}</p>" for q in questions)
+
+        return Markup(formatted_questions)
+    elif question in data:
         return data[question]
     else:
         closest_match = get_close_matches(question, data.keys(), n=1, cutoff=0.5)
